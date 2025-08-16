@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+*.sqlite3
+*.db
+*.egg-info/
+venv/
+myenv*/
+.env
+.DS_Store
+*.swp
+*.bak
+*.tmp
+# Jupyter
+.ipynb_checkpoints/
+# VSCode
+.vscode/
+# OS
+Thumbs.db
+Desktop.ini
+# Model files
+export.pkl
+export_epoch_*.pkl
+# Data
+*.csv
+*.tsv
+*.h5
+*.npz
+*.npy
+# Keys
+*.pem
